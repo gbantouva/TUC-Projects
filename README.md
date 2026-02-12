@@ -2,7 +2,6 @@
 
 A collection of projects implemented during my studies at **Technical University of Crete (TUC)**, School of Electrical and Computer Engineering.
 
-**Student**: Georgia Bantouva (2019030006)
 
 ## Overview
 
@@ -21,7 +20,7 @@ This repository contains various academic projects spanning multiple courses, pr
 - **Language**: SQL, PL/pgSQL
 - **Database**: PostgreSQL
 - **Features**: Student management, course registration, grading system, thesis assignment, triggers and stored procedures
-- **Team**: Maria Stefanaki, Georgia Bantouva
+
 
 ### Data Structures and Files
 **File Organization & Binary Search Trees**
@@ -54,7 +53,6 @@ This repository contains various academic projects spanning multiple courses, pr
   - Adblocker (iptables)
   - Intrusion detection (Snort IDS)
   - Buffer overflow exploitation
-- **Team**: Maria Stefanaki, Georgia Bantouva
 
 ### System Design
 **Team Building Event Planning System**
@@ -68,7 +66,6 @@ This repository contains various academic projects spanning multiple courses, pr
 - **Technologies**: HTML5, CSS3, JavaScript
 - **Features**: Educational articles, interactive quizzes, community chatrooms, responsive design
 - **Theme**: Black and pink color scheme
-- **Team**: Alexandra Gkaragkani, Georgia Bantouva, Olga Lantzouraki, Eva Pantazi
 
 ### Computer Organization
 **Processor Design and Implementation**
@@ -79,7 +76,6 @@ This repository contains various academic projects spanning multiple courses, pr
   - Multi-cycle processor with FSM
   - Pipelined processor with hazard detection
 - **Components**: ALU, Register File, Control Unit, Forwarding/Stalling Units
-- **Student**: Chrysi Manoudaki
 
 ## Technologies Summary
 
