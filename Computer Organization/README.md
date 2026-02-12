@@ -2,7 +2,7 @@
 
 **Course**: Computer Organization  
 Technical University of Crete - School of Electrical and Computer Engineering  
-**Student**: Chrysi Manoudaki (2019030201)
+**Student**: Georgia Bantouva
 
 ## Overview
 
