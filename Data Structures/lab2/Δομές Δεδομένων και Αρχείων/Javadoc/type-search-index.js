@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"mainPackage","l":"BinarySearch"},{"p":"searchTrees","l":"BinarySearchTree"},{"p":"bstInterface","l":"BST"},{"p":"mainPackage","l":"Main"},{"p":"mainPackage","l":"MultiCounter"},{"p":"searchTrees","l":"ThreadedBinarySearchTree"}];updateSearchResults();
