@@ -1,6 +1,6 @@
 # Electronic Prescription Management System
 
-**Course**: PLH 102 - Structured Programming  
+**Course**: PLH 102 - Structured Programming  & Object Oriented Programming
 Technical University of Crete - School of Electrical and Computer Engineering  
 Academic Year: Spring 2020  
 **Student**: Georgia Bantouva (2019030006)
